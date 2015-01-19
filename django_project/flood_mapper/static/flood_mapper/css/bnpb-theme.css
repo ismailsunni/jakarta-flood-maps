@@ -35,3 +35,7 @@ body {
 .open > .dropdown-toggle.btn-primary {
     background-color: #ffa500;
 }
+
+#recommended {
+    color: black;
+}
